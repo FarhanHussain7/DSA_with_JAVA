@@ -4,8 +4,8 @@ package O2_Variable_Data_Type;
 * there are two type - 1 local variable  , 2 - global variable
 * 1 - local variable - which is declare inside the loop, condition , function
 * 2 - Global variable - it will
-* 3 - Instance Variable -
-* 4 - static variable -
+* 3 - Instance Variable - An instance variable is a type of variable that belongs to an object in object-oriented programming.
+ * 4 - static variable - A static variable in Java is a variable that belongs to the class itself, not to any specific object. It is shared by all instances of that class
 * */
 public class O1_Scope {
     static int c = 12; // static variable
