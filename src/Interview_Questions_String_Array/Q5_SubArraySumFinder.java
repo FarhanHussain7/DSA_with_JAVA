@@ -1,4 +1,4 @@
-package Interview_String_Based_Question;
+package Interview_Questions_String_Array;
 
 public class Q5_SubArraySumFinder {
     public static void main(String[] args) {
